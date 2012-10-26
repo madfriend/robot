@@ -1,4 +1,6 @@
 JAXL/
+JAXL
+.gitignore
 phpactiveresource/
 composer.phar
 composer.lock
